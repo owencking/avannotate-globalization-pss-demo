@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "owencking",
+    "is_private": false,
+    "title": "Annotated Primary Source Set: Globalization and Debates over Free Trade",
+    "description": "These annotated videos are from the American Archive of Public Broadcasting.  The videos are part of the upcoming primary source resource set called, \"Globalization and the Debate over 'Free Trade'\", composed and annotated by Ben Leff.\n",
+    "language": "en",
+    "slug": "avannotate-globalization-pss-demo",
+    "creator": "owencking",
+    "authors": "Ben Leff",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-05-12T23:34:12.026Z",
+    "updated_at": "2025-05-12T23:34:12.026Z"
   }
 }
