@@ -1,1 +1,28 @@
-{"annotations":[],"set":"Default","event_id":"4c7d2138-b947-4e68-904c-171aa7918151","source_id":"d2de803b-56f3-4cdc-b352-499f3182ffa5"}
+{
+  "annotations": [
+    {
+      "start_time": 536,
+      "end_time": 682,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clip: NAFTA Promotes US Trade with Mexico and Canada (1995)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Primary Source Sets",
+          "tag": "full clip"
+        }
+      ],
+      "uuid": "4bdbbfc2-5f6a-4ed8-9742-c73f004d7457"
+    }
+  ],
+  "set": "Default",
+  "event_id": "4c7d2138-b947-4e68-904c-171aa7918151",
+  "source_id": "d2de803b-56f3-4cdc-b352-499f3182ffa5"
+}
