@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-05-13T02:46:22.070Z",
+  "created_by": "owencking",
+  "title": "The NewsHour with Jim Lehrer for October 25, 2005",
+  "slug": "the-newshour-with-jim-lehrer-for-october-25",
+  "updated_at": "2025-05-13T02:46:22.070Z",
+  "updated_by": "owencking",
+  "parent": "81a0b69a-ae14-4862-bb96-d2514a204eb4",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "c314bcd0-5f19-400b-bdd1-9ecd5dca7c77"
+  }
+}
