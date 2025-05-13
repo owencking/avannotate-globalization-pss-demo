@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "d2de803b-56f3-4cdc-b352-499f3182ffa5": {
+      "label": "3-newshour",
+      "is_offline": false,
+      "file_url": "https://aapb-avannotate.s3.us-east-1.amazonaws.com/av/cpb-aacip-507-1z41r6np9f.mp4",
+      "duration": 3534,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The MacNeil/Lehrer NewsHour for April 13, 1995"
+        }
+      ]
+    }
+  ],
+  "citation": "https://americanarchive.org/catalog/cpb-aacip-507-1z41r6np9f",
+  "item_type": "Video",
+  "label": "The MacNeil/Lehrer NewsHour for April 13, 1995",
+  "created_at": "2025-05-13T02:39:07.192Z",
+  "created_by": "owencking",
+  "updated_at": "2025-05-13T02:39:07.192Z",
+  "updated_by": "owencking"
+}
