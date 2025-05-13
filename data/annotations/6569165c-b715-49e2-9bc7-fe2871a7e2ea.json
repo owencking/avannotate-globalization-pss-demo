@@ -62,6 +62,27 @@
         }
       ],
       "uuid": "39ad4ec0-4e2c-48cd-858e-c1c1daa670c2"
+    },
+    {
+      "start_time": 588,
+      "end_time": 591,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What are these “protections on investments”? Imagine that a US business wanted to open a new factory in Mexico, and felt that the Mexican government was treating it unfairly, or was subjecting the factory to treatment that Mexican companies did not experience. NAFTA set up rules for how a government could and couldn’t treat investors from other member nations, and procedures that would allow an investor to appeal if they felt that a government was treating them unfairly. These provisions were meant to encourage foreign investment, since a business would be more likely to engage in economic activity in another country if they felt they would be treated fairly by that country’s government. (Conversely, critics say that such provisions put the interests of a multinational corporation ahead of the democratic power of the government in which that company operated)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Primary Source Sets",
+          "tag": "insights"
+        }
+      ],
+      "uuid": "9af0545c-8e63-4224-bcac-972d9fd0d3a5"
     }
   ],
   "set": "Default",
