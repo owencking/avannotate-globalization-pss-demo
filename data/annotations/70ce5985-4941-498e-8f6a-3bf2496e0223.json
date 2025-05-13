@@ -20,6 +20,27 @@
         }
       ],
       "uuid": "e4172ccc-2f50-438e-84b9-97e0db7b9649"
+    },
+    {
+      "start_time": 1857,
+      "end_time": 1874,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Kathie Lee Gifford “scandal” was arguably the most significant media event that dramatized the problem of worker exploitation that went into the creation of low-cost goods. Notably, Gifford was a famous celebrity with a bubbly personality who was watched by millions of Americans daily rather than a “faceless” corporation. This tearful television moment galvanized public attention, and the scandal ultimately drove Gifford to speak out against the use of child labor and call for independent monitors of working conditions in the developing world."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Primary Source Sets",
+          "tag": "insights"
+        }
+      ],
+      "uuid": "2ceb5db4-c449-4259-8a24-3e6bc739bcc8"
     }
   ],
   "set": "Default",
