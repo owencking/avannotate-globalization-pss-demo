@@ -113,6 +113,27 @@
         }
       ],
       "uuid": "a84ab7a8-bd83-48c1-a809-2bf4d62de0ca"
+    },
+    {
+      "start_time": 2551,
+      "end_time": 2552,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "End of clip: The Complex Impact of Globalization on Alabama Communities"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Primary Source Sets",
+          "tag": "clip ends"
+        }
+      ],
+      "uuid": "a10d3cfe-f155-4595-ba8d-1aa3f7d85c53"
     }
   ],
   "set": "Default",
