@@ -20,6 +20,22 @@
         }
       ],
       "uuid": "6c1628c1-577f-4088-b76f-a0a6312f3a32"
+    },
+    {
+      "start_time": 2220,
+      "end_time": 2222,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An earlier portion of this report included footage from a 1993 NewsHour report in which about an Autaugaville, Alabama factory that seemed doomed to go out of business after NAFTA. After all, the corn brooms that the company produced would lose tariff protections once the deal was enacted. However, the report explains that the impact on the company was less dramatic, though still significant. It now operated with around 100 workers, less than half the number of pre-NAFTA employees, and now the mop yarn and broom parts used at the factory come from Pakistan and China rather than the USA. As Factory President Ed Pearson put it, “Ironically, the Chinese are saving jobs in this factory from Mexico.”"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7bf62c40-cc3f-4b10-ba1f-478779020550"
     }
   ],
   "set": "Default",
