@@ -146,6 +146,27 @@
         }
       ],
       "uuid": "1409517e-a9f2-401d-bd51-ed996bec935b"
+    },
+    {
+      "start_time": 643,
+      "end_time": 665,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nThe side agreements discussed in this section speak to the difficult domestic political considerations that Bill Clinton faced in getting NAFTA passed. Much of this resistance arose from environmentalists and labor unions on Clinton’s political left. Environmentalists argued that trade deals like NAFTA would result in environmental destruction, as American companies would take advantage of laxer environmental regulations in developing countries. Labor unions argued that multinational companies would exploit workers in poorer countries. As a result, the workers and environment of other countries would be harmed, and American workers would lose their jobs. These “side agreements” responded to these concerns, building more protections for the environment and workers in other countries, and providing training programs for American workers displaced by NAFTA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Primary Source Sets",
+          "tag": "insights"
+        }
+      ],
+      "uuid": "b096e483-0ed4-4cf1-9a91-204f98e1641b"
     }
   ],
   "set": "Default",
