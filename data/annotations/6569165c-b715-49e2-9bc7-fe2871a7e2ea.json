@@ -181,7 +181,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Primary Source Sets",
+          "tag": "clip ends"
+        }
+      ],
       "uuid": "20f664ed-fd7a-428c-bb99-8a20b4a377f3"
     }
   ],
