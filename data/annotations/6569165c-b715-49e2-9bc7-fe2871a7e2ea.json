@@ -20,6 +20,27 @@
         }
       ],
       "uuid": "4bdbbfc2-5f6a-4ed8-9742-c73f004d7457"
+    },
+    {
+      "start_time": 549,
+      "end_time": 561,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "NAFTA was originally negotiated under Republican President George H.W. Bush, the speaker in this section of the clip. However, the deal had yet to be approved by Congress when Bush was defeated in the 1992 election by Bill Clinton. The new Democratic president continued to advocate for NAFTA’s passage in 1993. The trade deal faced opposition from both sides of the political aisle, but resistance was particularly strong among Democrats."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Primary Source Sets",
+          "tag": "insights"
+        }
+      ],
+      "uuid": "44339371-62dd-4f4d-af63-e94cee341df2"
     }
   ],
   "set": "Default",
