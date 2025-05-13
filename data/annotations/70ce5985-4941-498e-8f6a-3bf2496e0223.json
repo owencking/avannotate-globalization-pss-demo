@@ -99,6 +99,27 @@
       ],
       "tags": [],
       "uuid": "d0a70b3a-0425-4776-a720-3acd5124aaf7"
+    },
+    {
+      "start_time": 2114,
+      "end_time": 2115,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "End of clip: Walmart, Sweatshops, and the Price of Cheap Clothes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Primary Source Sets",
+          "tag": "clip ends"
+        }
+      ],
+      "uuid": "e46eb1ae-1546-4706-afdd-44134a762ff9"
     }
   ],
   "set": "Default",
