@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "2bca4aad-b184-469b-a016-2b1d70adc967": {
+      "label": "8-newshour",
+      "is_offline": false,
+      "file_url": "https://aapb-avannotate.s3.us-east-1.amazonaws.com/av/cpb-aacip-507-7s7hq3sh3g.mp4",
+      "duration": 3830,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The NewsHour with Jim Lehrer for August 23, 2004"
+        }
+      ]
+    }
+  ],
+  "citation": "https://americanarchive.org/catalog/cpb-aacip-507-7s7hq3sh3g",
+  "item_type": "Video",
+  "label": "The NewsHour with Jim Lehrer for August 23, 2004",
+  "created_at": "2025-05-13T02:43:04.469Z",
+  "created_by": "owencking",
+  "updated_at": "2025-05-13T02:43:04.469Z",
+  "updated_by": "owencking"
+}
