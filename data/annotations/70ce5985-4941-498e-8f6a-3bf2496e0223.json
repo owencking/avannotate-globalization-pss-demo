@@ -1,1 +1,28 @@
-{"annotations":[],"set":"Default","event_id":"62704d85-b4c6-44f8-8491-d66b697b203d","source_id":"2bca4aad-b184-469b-a016-2b1d70adc967"}
+{
+  "annotations": [
+    {
+      "start_time": 1797,
+      "end_time": 1798,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Begin clip: Walmart, Sweatshops, and the Price of Cheap Clothes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Primary Source Sets",
+          "tag": "clip begins"
+        }
+      ],
+      "uuid": "e4172ccc-2f50-438e-84b9-97e0db7b9649"
+    }
+  ],
+  "set": "Default",
+  "event_id": "62704d85-b4c6-44f8-8491-d66b697b203d",
+  "source_id": "2bca4aad-b184-469b-a016-2b1d70adc967"
+}
