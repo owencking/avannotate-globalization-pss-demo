@@ -83,6 +83,22 @@
         }
       ],
       "uuid": "a969b6f4-1946-45ba-8bf5-f0dea3738252"
+    },
+    {
+      "start_time": 2057,
+      "end_time": 2114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nThis interaction illustrates a fundamental dynamic in the globalization debate. While the shift of operations overseas is often viewed as the result of business choices, it must also be viewed as the accumulation of millions of individual consumer choices. As consumers increasingly choose lower priced goods that are produced in other countries, businesses and entrepreneurs are incentivized to shift operations overseas and  invest in low-wage countries. The economic trends are the result of interplay between producer and consumer behavior."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d0a70b3a-0425-4776-a720-3acd5124aaf7"
     }
   ],
   "set": "Default",
