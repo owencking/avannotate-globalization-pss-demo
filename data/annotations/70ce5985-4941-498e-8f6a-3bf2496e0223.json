@@ -41,6 +41,27 @@
         }
       ],
       "uuid": "2ceb5db4-c449-4259-8a24-3e6bc739bcc8"
+    },
+    {
+      "start_time": 1874,
+      "end_time": 1889,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Charlie Kernaghan was perhaps the most prominent anti-sweatshop crusader of the 1990s. He targeted high-profile companies like Walmart, Nike, and Target for sourcing their products from suppliers in the developing world that exploited their workers. While some businesses accused him of exaggerating abuses, his use of interviews with workers and hidden camera footage compellingly documented abuses and galvanized activists. The documentaries he created (which provided footage used by major broadcasters like PBS) heavily influenced the public debate in this era."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Primary Source Sets",
+          "tag": "insights"
+        }
+      ],
+      "uuid": "7f2d70fe-72c8-4780-9749-ef5b20e42cbd"
     }
   ],
   "set": "Default",
