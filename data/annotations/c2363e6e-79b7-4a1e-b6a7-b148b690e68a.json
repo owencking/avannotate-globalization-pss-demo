@@ -64,6 +64,27 @@
         }
       ],
       "uuid": "f31e5149-b17d-4b07-acb5-3720af4ae1ce"
+    },
+    {
+      "start_time": 2395,
+      "end_time": 2404,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The quote in this portion effectively summarizes a core feature of the political debate surrounding globalization: “the losers are always concentrated, and the losers tend to be vocal and the winners tend to be dispersed in the population.” If indeed there is a policy in which the country benefits as a whole, but results in a minority of citizens becoming worse off, what ought the government to do?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Primary Source Sets",
+          "tag": "insights"
+        }
+      ],
+      "uuid": "dc26697a-05f9-4916-b257-a256f7bdd997"
     }
   ],
   "set": "Default",
