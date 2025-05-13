@@ -2,13 +2,13 @@
   "annotations": [
     {
       "start_time": 536,
-      "end_time": 682,
+      "end_time": 536,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Clip: NAFTA Promotes US Trade with Mexico and Canada (1995)"
+              "text": "Being clip: NAFTA Promotes US Trade with Mexico and Canada (1995)"
             }
           ]
         }
