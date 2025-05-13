@@ -34,7 +34,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Primary Source Sets",
+          "tag": "insights"
+        }
+      ],
       "uuid": "7bf62c40-cc3f-4b10-ba1f-478779020550"
     },
     {
