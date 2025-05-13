@@ -104,6 +104,27 @@
         }
       ],
       "uuid": "1eda5a50-65dd-4087-adc6-1ec7ca1f14dd"
+    },
+    {
+      "start_time": 605,
+      "end_time": 625,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you look closely at some of the signs, you can see “AFL-CIO,” the acronym for the country’s largest labor union. Indeed, organized labor was at the forefront of opposition to NAFTA, arguing that the trade deal would result in a loss of union jobs (note the sign reading “Don’t sell my job to Mexico”). This resistance posed a political problem for Bill Clinton, as unions were a key part of the Democratic coalition. Ultimately, Democrats and Republicans came together to approve NAFTA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Primary Source Sets",
+          "tag": "insights"
+        }
+      ],
+      "uuid": "81b6b278-1785-4222-bcd4-bd2004a3279a"
     }
   ],
   "set": "Default",
