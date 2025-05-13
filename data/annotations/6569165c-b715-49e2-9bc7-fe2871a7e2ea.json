@@ -125,6 +125,27 @@
         }
       ],
       "uuid": "81b6b278-1785-4222-bcd4-bd2004a3279a"
+    },
+    {
+      "start_time": 625,
+      "end_time": 638,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "While much resistance to NAFTA came from labor and environmental groups on the political left, opposition also came from other parts of the political spectrum. Texas businessman H. Ross Perot, interviewed here, made opposition to NAFTA the centerpiece of his 1992 third party campaign. He took nineteen percent of the popular vote which was the highest for a third party since 1912. Perot’s favorability shows the appeal of free trade skepticism in the American public."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Primary Source Sets",
+          "tag": "insights"
+        }
+      ],
+      "uuid": "1409517e-a9f2-401d-bd51-ed996bec935b"
     }
   ],
   "set": "Default",
