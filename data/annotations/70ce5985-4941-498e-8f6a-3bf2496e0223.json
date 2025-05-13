@@ -62,6 +62,27 @@
         }
       ],
       "uuid": "7f2d70fe-72c8-4780-9749-ef5b20e42cbd"
+    },
+    {
+      "start_time": 1958,
+      "end_time": 1993,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here, the Walmart representative articulates arguments often made by defenders of the growth of manufacturing in the developing world. According to this perspective, the “sweatshops” offer wages that (while very low by American standards) are competitive in poor countries that have lower costs of living. They argue that the shift of garment manufacturing has actually reduced extreme poverty in the developing world and provided economic opportunity that wouldn’t otherwise exist."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Primary Source Sets",
+          "tag": "insights"
+        }
+      ],
+      "uuid": "a969b6f4-1946-45ba-8bf5-f0dea3738252"
     }
   ],
   "set": "Default",
