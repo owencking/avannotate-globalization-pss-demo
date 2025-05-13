@@ -41,6 +41,27 @@
         }
       ],
       "uuid": "44339371-62dd-4f4d-af63-e94cee341df2"
+    },
+    {
+      "start_time": 585,
+      "end_time": 588,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A tariff refers to a tax placed on imported goods entering a country. An import quota is a limit placed on a particular type of good (e.g. shoes, cars) from another country. NAFTA sought to ease trade between Canada, US, and Mexico by limiting, or even eliminating, tariffs and quotas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Primary Source Sets",
+          "tag": "insights"
+        }
+      ],
+      "uuid": "39ad4ec0-4e2c-48cd-858e-c1c1daa670c2"
     }
   ],
   "set": "Default",
