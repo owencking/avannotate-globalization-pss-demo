@@ -1,7 +1,7 @@
 {
   "audiovisual_files": {
     "2bca4aad-b184-469b-a016-2b1d70adc967": {
-      "label": "8-newshour",
+      "label": "5-newshour",
       "is_offline": false,
       "file_url": "https://aapb-avannotate.s3.us-east-1.amazonaws.com/av/cpb-aacip-507-7s7hq3sh3g.mp4",
       "duration": 3830,
@@ -24,6 +24,6 @@
   "label": "The NewsHour with Jim Lehrer for August 23, 2004",
   "created_at": "2025-05-13T02:43:04.469Z",
   "created_by": "owencking",
-  "updated_at": "2025-05-13T02:43:04.469Z",
+  "updated_at": "2025-05-13T02:43:28.235Z",
   "updated_by": "owencking"
 }
