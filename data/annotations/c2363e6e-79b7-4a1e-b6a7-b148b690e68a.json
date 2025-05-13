@@ -85,6 +85,34 @@
         }
       ],
       "uuid": "dc26697a-05f9-4916-b257-a256f7bdd997"
+    },
+    {
+      "start_time": 2533,
+      "end_time": 2550,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This portion of the clip shows why unemployment rates can be an insufficient way to understand the impact of globalization on American workers. "
+            },
+            {
+              "text": "This chart",
+              "link": "https://scalar.usc.edu/works/growing-apart-a-political-history-of-american-inequality/media/Gordon%20technology%20graphs%20(rev2)%20FIG%202%20Chart%201.jpg"
+            },
+            {
+              "text": ", based on data from the left-of-center Economic Policy Institute, shows that while wages of college graduates have grown since 1979, high school graduates and those who did not finish high school have seen real wages decline in recent decades. While globalization is not the only reason for the stagnation of working-class wages, many economists (like David Autor of MIT) have argued that global competition from countries like China play a significant role in reducing opportunity for American workers with less formal education."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Primary Source Sets",
+          "tag": "insights"
+        }
+      ],
+      "uuid": "a84ab7a8-bd83-48c1-a809-2bf4d62de0ca"
     }
   ],
   "set": "Default",
